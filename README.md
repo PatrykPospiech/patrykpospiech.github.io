@@ -18,7 +18,7 @@ zmienia dlatego jeżeli chcesz się podzielić opinią/przedyskutować temat lub
 
 Email: [patrykpospiech104@gmail.com]()
 
-W najbliższym czasie zamierzam rozpocząć przygodę jeszcze na jednym kanale streamingowym, jeżeli jesteś zainteresowany lub zainteresowana
+W najbliższym czasie zamierzam rozpocząć przygodę na jeszcze jednym kanale streamingowym, jeżeli jesteś zainteresowany lub zainteresowana
 zapisz się do na [listę mailingową](https://forms.gle/6K3LDGx3jvUNezKj9)
 
 Bye !
