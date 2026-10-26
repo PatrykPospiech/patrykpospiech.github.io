@@ -10,7 +10,7 @@
       if (link.dataset.area === area) link.setAttribute('aria-current', 'page');
       else link.removeAttribute('aria-current');
     });
-    document.title = `Patryk Pospiech — ${area === 'wip' ? 'Work in Progress' : 'Professional'}`;
+    document.title = `Patryk Pospiech — ${({ professional: 'Professional', wip: 'Work in Progress', about: 'About' })[area]}`;
     if (target && target !== document.getElementById(area)) target.scrollIntoView();
     else window.scrollTo(0, 0);
   }

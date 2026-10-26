@@ -17,3 +17,8 @@ Nawigacja używa fragmentów URL, więc odświeżenie #wip działa bez reguł pr
 
 ## Weryfikacja
 Sprawdzono składnię JS, przełączanie obszarów, filtrowanie eksperymentów i rozwijanie tekstu w przeglądarce oraz wygląd strony Professional w ramce o szerokości 375 px.
+
+## English content update
+The main site now uses English throughout, with Professional, Work in Progress, and About as separate navigable areas. Professional distinguishes areas of focus from public projects and career history. WIP has Thoughts, Experiments, Side Projects, and Guides; all illustrative entries remain explicitly labelled. The original Polish archive is preserved and its link labelled In Polish.
+
+Checked the new About route, Guides filtering, internal fragment targets, JavaScript syntax, and the Professional layout at a 375 px viewport. No unverified job titles, employment dates, or outcomes were added.
